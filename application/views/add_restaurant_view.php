@@ -1,5 +1,5 @@
 <?php
-//lal
+//lals
 $name_data = array(
 			'name' => 'name',
 			'type' => 'text',
