@@ -49,7 +49,11 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
+<<<<<<< HEAD
 $db['default']['password'] = '';
+=======
+$db['default']['password'] = 'root';
+>>>>>>> dc3dea82cacb41edbef61785690b37d4c3750d74
 $db['default']['database'] = 'restaurant';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';

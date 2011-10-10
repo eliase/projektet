@@ -11,6 +11,20 @@ a {
 	font-weight: normal;
 }
 
+<<<<<<< HEAD
+=======
+.browse_restaurants
+{
+  color: #aa5555;
+  font-family:arial;
+  font-size: 24pt;
+  position: absolute;
+  left: 370;
+  top: 0;
+  width: 100%;
+}
+
+>>>>>>> dc3dea82cacb41edbef61785690b37d4c3750d74
 #main_menu{
 	background-color: red;
 	position: absoulte;
@@ -60,7 +74,11 @@ a {
 	background-color: #eee;
 	border-style:solid;
 	border-width:1px;
+<<<<<<< HEAD
 	width: 550;
+=======
+	width: 400;
+>>>>>>> dc3dea82cacb41edbef61785690b37d4c3750d74
 	border-radius: 5px;
    
 	-moz-box-shadow: 5px 5px 5px #ccc;

@@ -3,6 +3,7 @@
 	<meta charset="utf-8">
 	<title><?php echo $title;?></title>
 	<link id="css1" href="<?php echo base_url();?>css/main.css" rel="stylesheet" type="text/css" media="screen"/>
+<<<<<<< HEAD
 	<script type="text/javascript" src="/jquery.js"></script>
 	<script type="text/javascript">
 	
@@ -153,6 +154,8 @@
 	});
 	
 	</script>  
+=======
+>>>>>>> dc3dea82cacb41edbef61785690b37d4c3750d74
 </head>
 <body>
 <div id="main_menu">
@@ -161,13 +164,21 @@
 	</div>
 	
 	<div id="buttons">
+<<<<<<< HEAD
 		<a href="<?php echo site_url("welcome/create_account");?>">Create a new account</a><br>
 		<a href="<?php echo site_url("welcome/login");?>">Login</a><br>
+=======
+		<a href="<?php echo site_url("welcome/news");?>">News</a><br>
+		<a href="<?php echo site_url("welcome/create_account");?>">Create a new account</a><br>
+>>>>>>> dc3dea82cacb41edbef61785690b37d4c3750d74
 		<a href="">gergergerg</a><br>
 		<a href="">werhwerh</a><br>
 		<a href="">rthrthrthhtr</a><br>
 	</div>
+<<<<<<< HEAD
 
+=======
+>>>>>>> dc3dea82cacb41edbef61785690b37d4c3750d74
 	
 	<div id="body_page">
 

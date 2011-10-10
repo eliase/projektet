@@ -14,7 +14,11 @@
 | path to your installation.
 |
 */
+<<<<<<< HEAD
 $config['base_url']	= '';
+=======
+$config['base_url']	= 'http://localhost/CodeIgniter/';
+>>>>>>> dc3dea82cacb41edbef61785690b37d4c3750d74
 
 /*
 |--------------------------------------------------------------------------
